@@ -327,6 +327,3 @@ def generate():
 
     return render_template('index.html', Trust = t, Friend = fr, Int = i, YA = ya, file = addr)
 
-
-if __name__ == '__main__':
-  app.run(debug=True)
