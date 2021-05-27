@@ -1,1 +1,2 @@
-## Senior Design Thesis project
+## The Character Jar
+Senior Design thesis project
